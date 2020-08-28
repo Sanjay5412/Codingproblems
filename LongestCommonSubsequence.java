@@ -26,4 +26,5 @@ public class LongestCommonSubsequence {
 		System.out.println(l.LCS(s1,s2));
 	}
 
-}
+} 
+//Will executes successfully in ecllipse
